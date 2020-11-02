@@ -1,0 +1,2 @@
+# hello-word
+rookie case
